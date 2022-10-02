@@ -1,0 +1,10 @@
+[package]
+name = "certificate"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+argopt = "0.3.0"
+rcgen = "0.10"
