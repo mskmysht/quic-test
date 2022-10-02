@@ -11,3 +11,4 @@ tokio = { version = "1.21.2", features = ["full"] }
 rustls = "0.20"
 rcgen = "0.10"
 certificate = { path = "../certificate" }
+argopt = "0.3.0"
